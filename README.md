@@ -1,7 +1,7 @@
 # Data-Structure
 ### Custom liberary
-use Linked list - single linked list , double linked list
+$use Linked list - single linked list , double linked list
 
-Implementation of queue using custom linked list
+$Implementation of queue using custom linked list
 
-Implementation of stack using custom linked list
+$Implementation of stack using custom linked list
